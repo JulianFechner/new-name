@@ -59,5 +59,3 @@ while True:
     else:
         print("Goodbye!")
         break
-    
-    sys.exit()
