@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Languages: English, German
 
+
+## [1.0.1] - 2021-03-12
+- Edited About section and README-file.
+
 ## [1.0.1] - 2021-03-09
 - Added MIT License and a way to repeat the program, with user input.
 - Rename.
